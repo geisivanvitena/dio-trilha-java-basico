@@ -79,8 +79,9 @@ A [Trilha Java da DIO](https://web.dio.me/track/2e52ad2d-0a3b-4ade-a4ae-17830f52
 
 **Geisivan Vitena**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/geisivanvitena/)  
-<<<<<<< HEAD
+## 📫 Contato
 
-=======
->>>>>>> 7814f0ad20f172544221b4a72e066c4b207391bb
+🔗 [LinkedIn](https://www.linkedin.com/in/geisivan-vitena-a46168246/)  
+
+📧 Email: gsv1205@yahoo.com.com
+
