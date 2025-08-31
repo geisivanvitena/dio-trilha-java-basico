@@ -5,20 +5,6 @@ Cada projeto representa uma etapa prática de aprendizado, desde conceitos bási
 
 ---
 
-## 📂 Estrutura dos Projetos
-
-- **projeto-01-variaveis**  
-  Projeto inicial com exemplos de declaração e utilização de variáveis em Java.  
-  🔗 [Acessar código](https://github.com/geisivanvitena/dio-trilha-java-basico/tree/main/tipos-variaveis/src)
-
-- **projeto-02-smart-tv**  
-  Sistema simples de uma Smart TV com funcionalidades como ligar/desligar, mudar de canal e ajustar volume.  
-  🔗 [Acessar código](./projeto-02-smart-tv)
-
-*(Novos projetos serão adicionados conforme avanço na trilha.)*
-
----
-
 ## 📚 Conteúdos da Trilha
 
 A trilha aborda desde fundamentos até frameworks, com bastante prática:
@@ -69,11 +55,25 @@ A trilha aborda desde fundamentos até frameworks, com bastante prática:
 
 ---
 
-## 📌 Sobre a Trilha
+## 📂 Estrutura dos Projetos
 
-A [Trilha Java da DIO](https://web.dio.me/track/2e52ad2d-0a3b-4ade-a4ae-17830f528834) é um curso completo que aborda desde fundamentos da linguagem até tópicos avançados, aplicando boas práticas e padrões de desenvolvimento.
+- **projeto-01-variaveis**  
+  Projeto inicial com exemplos de declaração e utilização de variáveis em Java.  
+  🔗 [Acessar código](https://github.com/geisivanvitena/dio-trilha-java-basico/tree/main/tipos-variaveis/src)
 
----
+- **projeto-02-sistema-smart-tv**  
+  Sistema simples de uma Smart TV com funcionalidades como ligar/desligar, mudar de canal e ajustar volume.  
+  🔗 [Acessar código](https://github.com/geisivanvitena/dio-trilha-java-basico/tree/main/Sistema-Smart-Tv)
+
+- **projeto-03-controle-de-fluxo**
+
+   Projeto com exemplos práticos de estruturas condicionais e laços de repetição em Java, explorando o uso do if/else, switch, for, while e do-while.
+
+   🔗 [Acessar código]()
+
+*(Novos projetos serão adicionados conforme avanço na trilha.)*
+
+
 
 ## 👨🏻‍💻 Autor
 
